@@ -1,6 +1,6 @@
 # 2024_Monov_WM-dynamics-in-the-aging-human-brain
 
-📄 This project contains codes from the publication: Monov, G., Stein, H., Klock, L., Gallinat, J., Kühn, S., Lincoln, T., Krkovic, K., Murphy, P.†, Donner, T.†, 2024. Linking cognitive integrity to working memory dynamics in the aging human brain (in press). Journal of Neuroscience. [† contributed equally]. [Preprint available here](https://www.biorxiv.org/content/10.1101/2023.08.18.553840v1).
+📄 This project contains codes from the publication: Monov, G., Stein, H., Klock, L., Gallinat, J., Kühn, S., Lincoln, T., Krkovic, K., Murphy, P.†, Donner, T.†, 2024. [Linking cognitive integrity to working memory dynamics in the aging human brain](https://www.jneurosci.org/content/44/26/e1883232024). Journal of Neuroscience. [† contributed equally].
 
 It contains several folders with code for preprocessing and analyzing behavioral, MEG and eye-tracking data. Below is a short description of the contents within each subfolder and pointers to specific analyses and figures from the publication. Detailed descriptions can be found in the beginning of each of the scripts. Please [get in touch](mailto:monov.gina@gmail.com) if you have any questions and/or requests!
 _________________________________________________________________
